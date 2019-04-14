@@ -16,6 +16,12 @@ class ViewController: UIViewController {
     }
 
     //comment
+    
+    /*
+ looooong
+ looooooooong
+ looooooooooooong comment
+ */
 
 }
 
